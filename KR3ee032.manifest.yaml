@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ee032/v1
 canonical_location: https://kanripo.org/bkk/KR3ee032/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 考正周身穴法歌
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ee032_000.yaml, hash: 'sha256:0c8da6e5f42cafe015c290843b3782dae216ee2f5b591671a66fc26c8274a4d3'}
+  - {seq: 0, filename: KR3ee032_000.yaml, hash: 'sha256:5b4ba9764166dd18d9f3ee891b8a92074ab99e45ed44babcfddb6d0f88da037a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee032_000.markers.yaml, hash: 'sha256:454582827b4db555e156c3a11e2c750930a642ebf9d52760d9f8efff3943d79c'}
+  - {seq: 0, role: markers, filename: assets/KR3ee032_000.markers.yaml, hash: 'sha256:54578d63767f1b898b8abad7dc1173494240ed1bc0442537837abea96ae80ed9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -211,4 +211,7 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:4815877c5655220b02d13ead89b1b09fd781a3dddfee92aad79b1e61938cd000
+hash: sha256:e421998db25d36bfa2012a0350564d1f575d40f1fe291b2e5fde6be33414ff21
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
